@@ -15,6 +15,8 @@ Screenshot of final product:
 
 ## Link to deployed application:
 
+https://qaleh1000.github.io/Daily-Planner-App/
+
 ## Collaborators
 
 I worked on this challenge with Ikran Hussein GitHub: https://github.com/Ikran1
