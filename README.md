@@ -11,7 +11,7 @@ Users can input data into each time block and save it using local storage. The a
 
 Screenshot of final product:
 ![Demonstration 1 ](./assets/Screenshot%20one.png)
-![Demonstration 2 ](./Assets/Screenshot%20two.png)
+![Demonstration 2 ](./assets/Screenshot%20two.png)
 
 ## Link to deployed application:
 
